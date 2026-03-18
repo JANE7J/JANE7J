@@ -40,4 +40,4 @@ Microsoft Generative AI · Fundamentals of AI · Google Project Management
 Cisco Networking · Infosys Python · Kaggle ML · Datacom · Figma
 
 📫 julluneeraja@gmail.com
-🔗 linkedin.com/in/jane7j<img width="1367" height="1012" alt="image" src="https://github.com/user-attachments/assets/afb7c00f-7bdb-4ced-8c18-e5a0cef41d96" />
+🔗 linkedin.com/in/jane7j
